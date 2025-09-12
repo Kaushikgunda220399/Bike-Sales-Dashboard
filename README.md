@@ -40,8 +40,3 @@ The dashboard provides key insights into bike sales, including:
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repo and submit a pull request.  
 
-
-
-
-Would you like me to create one with a **table of contents** included?
-
